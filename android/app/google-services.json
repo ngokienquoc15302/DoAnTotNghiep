@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "440344727682",
+    "project_id": "musicproject-61132",
+    "storage_bucket": "musicproject-61132.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:440344727682:android:e42d539d5533ef0055a49b",
+        "android_client_info": {
+          "package_name": "com.musicproject"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "440344727682-08jf23u9e3cvidq47hlqst84r1rpue1f.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.musicproject",
+            "certificate_hash": "94a4dd3ac793982649f3653845b9f9397bac7f6e"
+          }
+        },
+        {
+          "client_id": "440344727682-ejr5d5viiuh9v3dekd1t123mho8hnds4.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAaVlR56J7a8Nl0Q60pvhEM-9cMsjPSqBc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "440344727682-ejr5d5viiuh9v3dekd1t123mho8hnds4.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
